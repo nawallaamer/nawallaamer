@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawallaamer" alt="nawallaamer" /></a> </p>
 
-- 🔭 I’m currently working on **MiniMax Algorithm for Checkers**
+- 🔭 I’m currently working on **Generation and Reporting of Assessments for Dynamic Evaluation**
 
 - 📫 How to reach me **nawallaamer25@gmail.com**
 
